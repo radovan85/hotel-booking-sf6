@@ -21,3 +21,19 @@
 
 ####
 ####
+<img width="957" alt="pic00" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/705a14eb-5e4b-4594-8199-4870fa43d92a">
+<img width="960" alt="pic01" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/db924dd5-6766-4805-9346-9be603e5eaba">
+<img width="960" alt="pic02" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/ed59154a-9d12-4fd6-a3b5-35c929c6d7d8">
+<img width="959" alt="pic03" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/f6916a14-747e-4394-b447-15833ef4c73a">
+<img width="959" alt="pic04" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/e6ee73b3-0597-4999-9508-e26a5fcab800">
+<img width="960" alt="pic05" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/42414131-700f-4888-b931-a1fafd44749a">
+<img width="958" alt="pic06" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/a72ce2c5-a633-4f44-bc71-80f4e9e5e251">
+<img width="959" alt="pic07" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/da083ff6-3127-4dde-90e5-9b303dee4980">
+<img width="960" alt="pic08" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/cd51cb44-b2f1-4729-aaf0-3f611282f685">
+<img width="960" alt="pic09" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/596a2e38-4547-462d-94d4-cf596effedd0">
+<img width="960" alt="pic10" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/8a94e5b4-02e5-4bc3-bbdc-9ca4d6b0a47d">
+<img width="960" alt="pic11" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/888737f5-bf28-4362-86f6-215d85d940c8">
+<img width="960" alt="pic12" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/1196acf3-94f7-48c1-aae1-28d367bbbff9">
+<img width="960" alt="pic13" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/2d874fcb-9f13-4f82-a850-525a8cae0879">
+<img width="960" alt="pic14" src="https://github.com/radovan85/hotel-booking-sf6/assets/85531983/be66c2db-a42e-4b11-b20d-f5031882349b">
+
